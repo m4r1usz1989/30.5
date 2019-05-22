@@ -8,6 +8,7 @@ export default {
     twitterMessage: 'Nous sommes sur Twitter',
     by: 'Par',
     deletePost: 'Supprimer le message',
+    votes: 'Thumb up/down post',
     createNewPost: 'Créer un nouveau message',
     authorName: 'Nom de l\'auteur',
     postTitle: 'Titre de l\'article',
